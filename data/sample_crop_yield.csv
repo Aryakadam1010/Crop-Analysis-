@@ -1,0 +1,401 @@
+crop,state,season,crop_year,area_ha,rainfall_mm,yield_t_ha
+Rice,Karnataka,Kharif,2016,2.93,1147.6,3.02
+Rice,Karnataka,Rabi,2016,7.25,538.3,2.33
+Rice,Punjab,Kharif,2016,2.53,995.3,3.57
+Rice,Punjab,Rabi,2016,5.55,299.4,2.8
+Rice,Maharashtra,Kharif,2016,6.67,854.3,2.66
+Rice,Maharashtra,Rabi,2016,3.38,549.1,2.24
+Rice,Uttar Pradesh,Kharif,2016,1.65,1370.0,3.18
+Rice,Uttar Pradesh,Rabi,2016,6.65,501.9,2.7
+Rice,Tamil Nadu,Kharif,2016,3.65,1075.4,3.41
+Rice,Tamil Nadu,Rabi,2016,7.03,509.3,2.71
+Wheat,Karnataka,Kharif,2016,2.6,1193.2,3.1
+Wheat,Karnataka,Rabi,2016,1.71,316.4,3.65
+Wheat,Punjab,Kharif,2016,3.59,1145.0,3.5
+Wheat,Punjab,Rabi,2016,5.54,668.3,4.64
+Wheat,Maharashtra,Kharif,2016,2.14,819.8,2.86
+Wheat,Maharashtra,Rabi,2016,4.9,520.0,3.81
+Wheat,Uttar Pradesh,Kharif,2016,2.6,1290.0,3.15
+Wheat,Uttar Pradesh,Rabi,2016,2.48,333.9,4.27
+Wheat,Tamil Nadu,Kharif,2016,5.59,1313.5,3.46
+Wheat,Tamil Nadu,Rabi,2016,2.85,429.4,3.98
+Maize,Karnataka,Kharif,2016,5.09,1093.0,3.74
+Maize,Karnataka,Rabi,2016,7.98,309.7,2.83
+Maize,Punjab,Kharif,2016,1.77,763.6,3.96
+Maize,Punjab,Rabi,2016,1.44,411.1,3.23
+Maize,Maharashtra,Kharif,2016,7.8,1397.3,3.66
+Maize,Maharashtra,Rabi,2016,5.77,560.4,2.79
+Maize,Uttar Pradesh,Kharif,2016,1.78,886.8,3.56
+Maize,Uttar Pradesh,Rabi,2016,7.13,676.9,2.99
+Maize,Tamil Nadu,Kharif,2016,7.39,1050.4,4.0
+Maize,Tamil Nadu,Rabi,2016,5.26,519.5,2.96
+Cotton,Karnataka,Kharif,2016,6.45,1233.8,0.64
+Cotton,Karnataka,Rabi,2016,1.14,362.1,0.49
+Cotton,Punjab,Kharif,2016,3.15,1315.1,0.69
+Cotton,Punjab,Rabi,2016,1.6,673.5,0.55
+Cotton,Maharashtra,Kharif,2016,6.36,748.4,0.54
+Cotton,Maharashtra,Rabi,2016,2.86,474.9,0.47
+Cotton,Uttar Pradesh,Kharif,2016,4.78,996.2,0.67
+Cotton,Uttar Pradesh,Rabi,2016,7.97,355.9,0.49
+Cotton,Tamil Nadu,Kharif,2016,1.85,1006.7,0.64
+Cotton,Tamil Nadu,Rabi,2016,2.61,494.2,0.48
+Sugarcane,Karnataka,Kharif,2016,2.6,749.7,77.71
+Sugarcane,Karnataka,Rabi,2016,2.67,235.4,67.35
+Sugarcane,Punjab,Kharif,2016,7.55,850.0,85.95
+Sugarcane,Punjab,Rabi,2016,6.65,592.3,75.12
+Sugarcane,Maharashtra,Kharif,2016,3.97,767.9,69.12
+Sugarcane,Maharashtra,Rabi,2016,7.89,536.7,60.66
+Sugarcane,Uttar Pradesh,Kharif,2016,7.03,981.8,75.69
+Sugarcane,Uttar Pradesh,Rabi,2016,3.95,424.3,68.11
+Sugarcane,Tamil Nadu,Kharif,2016,4.1,874.9,84.69
+Sugarcane,Tamil Nadu,Rabi,2016,7.99,225.3,74.53
+Rice,Karnataka,Kharif,2017,6.94,1378.3,3.07
+Rice,Karnataka,Rabi,2017,3.81,306.9,2.25
+Rice,Punjab,Kharif,2017,2.86,965.3,3.71
+Rice,Punjab,Rabi,2017,7.7,411.5,3.04
+Rice,Maharashtra,Kharif,2017,2.08,1089.0,2.88
+Rice,Maharashtra,Rabi,2017,4.8,489.6,2.45
+Rice,Uttar Pradesh,Kharif,2017,4.52,740.0,3.33
+Rice,Uttar Pradesh,Rabi,2017,1.56,680.4,2.53
+Rice,Tamil Nadu,Kharif,2017,2.65,1116.5,3.19
+Rice,Tamil Nadu,Rabi,2017,5.16,323.1,2.67
+Wheat,Karnataka,Kharif,2017,4.66,993.5,3.35
+Wheat,Karnataka,Rabi,2017,2.67,558.1,3.84
+Wheat,Punjab,Kharif,2017,3.21,1170.2,3.83
+Wheat,Punjab,Rabi,2017,7.99,429.1,4.77
+Wheat,Maharashtra,Kharif,2017,2.86,751.3,3.09
+Wheat,Maharashtra,Rabi,2017,3.59,639.6,3.55
+Wheat,Uttar Pradesh,Kharif,2017,5.28,1283.6,3.67
+Wheat,Uttar Pradesh,Rabi,2017,6.72,203.9,3.79
+Wheat,Tamil Nadu,Kharif,2017,1.94,1164.4,3.24
+Wheat,Tamil Nadu,Rabi,2017,2.91,476.6,4.25
+Maize,Karnataka,Kharif,2017,5.44,1202.3,3.43
+Maize,Karnataka,Rabi,2017,6.92,652.7,2.76
+Maize,Punjab,Kharif,2017,1.02,996.5,4.17
+Maize,Punjab,Rabi,2017,6.19,331.0,3.28
+Maize,Maharashtra,Kharif,2017,1.53,999.4,3.51
+Maize,Maharashtra,Rabi,2017,6.84,472.8,2.78
+Maize,Uttar Pradesh,Kharif,2017,3.16,803.7,3.79
+Maize,Uttar Pradesh,Rabi,2017,7.29,630.4,2.95
+Maize,Tamil Nadu,Kharif,2017,6.46,874.7,3.92
+Maize,Tamil Nadu,Rabi,2017,2.08,510.3,3.35
+Cotton,Karnataka,Kharif,2017,6.68,1305.2,0.68
+Cotton,Karnataka,Rabi,2017,3.33,568.3,0.5
+Cotton,Punjab,Kharif,2017,6.68,1261.6,0.71
+Cotton,Punjab,Rabi,2017,7.11,254.0,0.55
+Cotton,Maharashtra,Kharif,2017,4.22,855.7,0.56
+Cotton,Maharashtra,Rabi,2017,1.17,313.8,0.41
+Cotton,Uttar Pradesh,Kharif,2017,7.77,929.8,0.62
+Cotton,Uttar Pradesh,Rabi,2017,7.87,399.8,0.49
+Cotton,Tamil Nadu,Kharif,2017,7.79,1357.5,0.66
+Cotton,Tamil Nadu,Rabi,2017,1.76,332.7,0.49
+Sugarcane,Karnataka,Kharif,2017,5.24,1210.0,77.34
+Sugarcane,Karnataka,Rabi,2017,2.78,488.3,70.08
+Sugarcane,Punjab,Kharif,2017,4.77,701.2,86.34
+Sugarcane,Punjab,Rabi,2017,3.55,535.3,73.06
+Sugarcane,Maharashtra,Kharif,2017,3.2,1165.0,77.01
+Sugarcane,Maharashtra,Rabi,2017,3.16,350.2,62.34
+Sugarcane,Uttar Pradesh,Kharif,2017,1.89,981.7,77.86
+Sugarcane,Uttar Pradesh,Rabi,2017,7.32,538.7,72.99
+Sugarcane,Tamil Nadu,Kharif,2017,1.0,910.7,77.67
+Sugarcane,Tamil Nadu,Rabi,2017,5.58,490.0,72.84
+Rice,Karnataka,Kharif,2018,4.31,1009.5,3.3
+Rice,Karnataka,Rabi,2018,1.59,284.8,2.42
+Rice,Punjab,Kharif,2018,6.73,1143.1,3.77
+Rice,Punjab,Rabi,2018,2.39,312.3,2.57
+Rice,Maharashtra,Kharif,2018,6.95,871.4,2.7
+Rice,Maharashtra,Rabi,2018,2.36,514.9,2.43
+Rice,Uttar Pradesh,Kharif,2018,5.59,1046.1,3.01
+Rice,Uttar Pradesh,Rabi,2018,1.75,585.0,2.6
+Rice,Tamil Nadu,Kharif,2018,4.63,823.1,3.04
+Rice,Tamil Nadu,Rabi,2018,4.2,624.2,2.85
+Wheat,Karnataka,Kharif,2018,5.17,1167.3,3.43
+Wheat,Karnataka,Rabi,2018,6.03,506.3,3.89
+Wheat,Punjab,Kharif,2018,7.28,1281.4,3.88
+Wheat,Punjab,Rabi,2018,2.73,329.6,4.46
+Wheat,Maharashtra,Kharif,2018,5.39,1236.1,2.95
+Wheat,Maharashtra,Rabi,2018,2.9,342.9,3.51
+Wheat,Uttar Pradesh,Kharif,2018,2.62,1078.1,3.43
+Wheat,Uttar Pradesh,Rabi,2018,3.85,232.1,3.96
+Wheat,Tamil Nadu,Kharif,2018,3.94,991.0,3.6
+Wheat,Tamil Nadu,Rabi,2018,7.0,547.8,4.4
+Maize,Karnataka,Kharif,2018,3.46,966.3,3.6
+Maize,Karnataka,Rabi,2018,3.93,676.7,3.08
+Maize,Punjab,Kharif,2018,2.54,1082.3,3.86
+Maize,Punjab,Rabi,2018,3.35,214.5,3.3
+Maize,Maharashtra,Kharif,2018,4.27,983.0,3.1
+Maize,Maharashtra,Rabi,2018,3.76,213.5,2.68
+Maize,Uttar Pradesh,Kharif,2018,1.95,719.0,3.5
+Maize,Uttar Pradesh,Rabi,2018,2.48,389.6,2.91
+Maize,Tamil Nadu,Kharif,2018,6.26,1232.9,4.07
+Maize,Tamil Nadu,Rabi,2018,1.14,241.0,3.04
+Cotton,Karnataka,Kharif,2018,5.55,1399.9,0.68
+Cotton,Karnataka,Rabi,2018,7.65,577.1,0.45
+Cotton,Punjab,Kharif,2018,1.88,714.3,0.71
+Cotton,Punjab,Rabi,2018,5.9,309.0,0.54
+Cotton,Maharashtra,Kharif,2018,6.24,817.5,0.54
+Cotton,Maharashtra,Rabi,2018,1.76,682.4,0.42
+Cotton,Uttar Pradesh,Kharif,2018,7.71,918.4,0.63
+Cotton,Uttar Pradesh,Rabi,2018,5.83,238.0,0.48
+Cotton,Tamil Nadu,Kharif,2018,6.95,771.3,0.66
+Cotton,Tamil Nadu,Rabi,2018,6.48,691.9,0.5
+Sugarcane,Karnataka,Kharif,2018,4.54,999.9,73.36
+Sugarcane,Karnataka,Rabi,2018,1.74,611.2,73.97
+Sugarcane,Punjab,Kharif,2018,5.95,1144.9,87.19
+Sugarcane,Punjab,Rabi,2018,2.89,682.7,83.9
+Sugarcane,Maharashtra,Kharif,2018,4.05,1076.7,74.85
+Sugarcane,Maharashtra,Rabi,2018,6.82,625.9,61.24
+Sugarcane,Uttar Pradesh,Kharif,2018,4.25,1317.1,83.55
+Sugarcane,Uttar Pradesh,Rabi,2018,6.96,214.3,65.17
+Sugarcane,Tamil Nadu,Kharif,2018,3.38,848.5,84.65
+Sugarcane,Tamil Nadu,Rabi,2018,1.07,338.1,76.95
+Rice,Karnataka,Kharif,2019,4.42,759.9,3.13
+Rice,Karnataka,Rabi,2019,4.44,523.0,2.6
+Rice,Punjab,Kharif,2019,5.84,765.1,3.36
+Rice,Punjab,Rabi,2019,4.72,436.6,2.79
+Rice,Maharashtra,Kharif,2019,5.92,1222.2,2.91
+Rice,Maharashtra,Rabi,2019,2.35,260.3,2.14
+Rice,Uttar Pradesh,Kharif,2019,2.3,1075.1,3.14
+Rice,Uttar Pradesh,Rabi,2019,7.84,562.3,2.63
+Rice,Tamil Nadu,Kharif,2019,2.36,898.1,3.16
+Rice,Tamil Nadu,Rabi,2019,4.74,207.1,2.48
+Wheat,Karnataka,Kharif,2019,5.88,1382.0,3.09
+Wheat,Karnataka,Rabi,2019,7.11,445.4,3.9
+Wheat,Punjab,Kharif,2019,2.29,1028.6,3.36
+Wheat,Punjab,Rabi,2019,6.75,438.9,4.36
+Wheat,Maharashtra,Kharif,2019,1.38,751.9,2.73
+Wheat,Maharashtra,Rabi,2019,7.96,351.9,3.4
+Wheat,Uttar Pradesh,Kharif,2019,6.54,1235.1,3.24
+Wheat,Uttar Pradesh,Rabi,2019,4.1,425.3,4.27
+Wheat,Tamil Nadu,Kharif,2019,5.35,1393.0,3.61
+Wheat,Tamil Nadu,Rabi,2019,2.45,673.8,4.09
+Maize,Karnataka,Kharif,2019,2.22,1162.3,3.3
+Maize,Karnataka,Rabi,2019,5.16,425.3,2.77
+Maize,Punjab,Kharif,2019,5.92,862.0,3.9
+Maize,Punjab,Rabi,2019,6.51,662.0,3.47
+Maize,Maharashtra,Kharif,2019,3.98,1162.8,3.39
+Maize,Maharashtra,Rabi,2019,6.79,654.2,2.61
+Maize,Uttar Pradesh,Kharif,2019,6.24,816.1,3.61
+Maize,Uttar Pradesh,Rabi,2019,5.82,262.2,3.04
+Maize,Tamil Nadu,Kharif,2019,4.46,1359.9,3.66
+Maize,Tamil Nadu,Rabi,2019,3.26,416.0,2.97
+Cotton,Karnataka,Kharif,2019,6.85,763.9,0.61
+Cotton,Karnataka,Rabi,2019,5.71,699.8,0.46
+Cotton,Punjab,Kharif,2019,4.29,728.2,0.71
+Cotton,Punjab,Rabi,2019,5.1,290.7,0.53
+Cotton,Maharashtra,Kharif,2019,3.44,1044.2,0.58
+Cotton,Maharashtra,Rabi,2019,3.31,628.9,0.46
+Cotton,Uttar Pradesh,Kharif,2019,6.69,901.8,0.65
+Cotton,Uttar Pradesh,Rabi,2019,3.26,357.3,0.52
+Cotton,Tamil Nadu,Kharif,2019,7.92,982.9,0.69
+Cotton,Tamil Nadu,Rabi,2019,2.31,406.6,0.49
+Sugarcane,Karnataka,Kharif,2019,6.32,1229.5,73.71
+Sugarcane,Karnataka,Rabi,2019,4.07,663.8,71.56
+Sugarcane,Punjab,Kharif,2019,5.26,785.0,80.78
+Sugarcane,Punjab,Rabi,2019,4.87,475.4,72.78
+Sugarcane,Maharashtra,Kharif,2019,4.23,1394.6,70.37
+Sugarcane,Maharashtra,Rabi,2019,6.02,449.2,64.18
+Sugarcane,Uttar Pradesh,Kharif,2019,7.86,891.4,74.8
+Sugarcane,Uttar Pradesh,Rabi,2019,7.45,391.8,70.4
+Sugarcane,Tamil Nadu,Kharif,2019,2.93,1315.5,88.34
+Sugarcane,Tamil Nadu,Rabi,2019,4.55,667.1,78.78
+Rice,Karnataka,Kharif,2020,5.11,898.0,3.31
+Rice,Karnataka,Rabi,2020,4.77,274.3,2.35
+Rice,Punjab,Kharif,2020,4.19,1086.3,3.5
+Rice,Punjab,Rabi,2020,5.0,548.7,2.75
+Rice,Maharashtra,Kharif,2020,6.21,1242.9,3.13
+Rice,Maharashtra,Rabi,2020,5.65,393.0,2.44
+Rice,Uttar Pradesh,Kharif,2020,1.26,1386.6,3.41
+Rice,Uttar Pradesh,Rabi,2020,7.12,634.9,2.62
+Rice,Tamil Nadu,Kharif,2020,6.06,1068.2,3.33
+Rice,Tamil Nadu,Rabi,2020,4.29,277.2,2.8
+Wheat,Karnataka,Kharif,2020,5.55,937.0,3.29
+Wheat,Karnataka,Rabi,2020,3.66,629.7,3.83
+Wheat,Punjab,Kharif,2020,7.11,1203.1,3.42
+Wheat,Punjab,Rabi,2020,7.45,515.6,4.83
+Wheat,Maharashtra,Kharif,2020,1.69,1222.7,3.13
+Wheat,Maharashtra,Rabi,2020,5.86,421.8,3.88
+Wheat,Uttar Pradesh,Kharif,2020,3.05,732.2,3.12
+Wheat,Uttar Pradesh,Rabi,2020,4.96,465.6,4.25
+Wheat,Tamil Nadu,Kharif,2020,7.1,819.0,3.38
+Wheat,Tamil Nadu,Rabi,2020,2.0,656.4,4.25
+Maize,Karnataka,Kharif,2020,1.07,877.8,3.59
+Maize,Karnataka,Rabi,2020,2.11,538.8,2.88
+Maize,Punjab,Kharif,2020,5.47,941.9,3.92
+Maize,Punjab,Rabi,2020,2.39,622.7,3.32
+Maize,Maharashtra,Kharif,2020,5.0,1038.2,3.36
+Maize,Maharashtra,Rabi,2020,7.85,347.6,2.76
+Maize,Uttar Pradesh,Kharif,2020,5.8,892.1,3.74
+Maize,Uttar Pradesh,Rabi,2020,4.48,503.2,3.24
+Maize,Tamil Nadu,Kharif,2020,5.25,900.3,3.62
+Maize,Tamil Nadu,Rabi,2020,5.74,510.4,3.24
+Cotton,Karnataka,Kharif,2020,5.4,1161.4,0.67
+Cotton,Karnataka,Rabi,2020,4.09,354.5,0.46
+Cotton,Punjab,Kharif,2020,3.07,1212.7,0.76
+Cotton,Punjab,Rabi,2020,4.78,266.1,0.56
+Cotton,Maharashtra,Kharif,2020,6.81,1071.6,0.57
+Cotton,Maharashtra,Rabi,2020,6.65,440.9,0.46
+Cotton,Uttar Pradesh,Kharif,2020,7.74,937.1,0.61
+Cotton,Uttar Pradesh,Rabi,2020,6.07,630.1,0.54
+Cotton,Tamil Nadu,Kharif,2020,3.56,1377.1,0.73
+Cotton,Tamil Nadu,Rabi,2020,4.18,468.3,0.51
+Sugarcane,Karnataka,Kharif,2020,6.76,1170.6,82.26
+Sugarcane,Karnataka,Rabi,2020,1.18,316.9,70.38
+Sugarcane,Punjab,Kharif,2020,2.55,1093.0,81.43
+Sugarcane,Punjab,Rabi,2020,3.12,654.7,78.5
+Sugarcane,Maharashtra,Kharif,2020,3.13,797.8,69.67
+Sugarcane,Maharashtra,Rabi,2020,1.95,643.6,65.23
+Sugarcane,Uttar Pradesh,Kharif,2020,7.62,1169.3,79.63
+Sugarcane,Uttar Pradesh,Rabi,2020,3.9,277.3,64.8
+Sugarcane,Tamil Nadu,Kharif,2020,7.66,1042.5,75.61
+Sugarcane,Tamil Nadu,Rabi,2020,7.65,421.7,76.73
+Rice,Karnataka,Kharif,2021,4.81,769.5,3.24
+Rice,Karnataka,Rabi,2021,2.33,399.1,2.3
+Rice,Punjab,Kharif,2021,5.64,1293.6,3.78
+Rice,Punjab,Rabi,2021,6.51,210.7,2.63
+Rice,Maharashtra,Kharif,2021,1.48,788.1,2.99
+Rice,Maharashtra,Rabi,2021,7.09,308.0,2.23
+Rice,Uttar Pradesh,Kharif,2021,1.02,803.3,3.36
+Rice,Uttar Pradesh,Rabi,2021,2.75,265.0,2.39
+Rice,Tamil Nadu,Kharif,2021,1.1,1162.7,3.57
+Rice,Tamil Nadu,Rabi,2021,2.22,361.9,2.44
+Wheat,Karnataka,Kharif,2021,6.22,1219.2,3.21
+Wheat,Karnataka,Rabi,2021,1.76,456.6,3.86
+Wheat,Punjab,Kharif,2021,6.48,1361.8,3.99
+Wheat,Punjab,Rabi,2021,7.75,429.0,4.11
+Wheat,Maharashtra,Kharif,2021,5.8,1035.3,2.99
+Wheat,Maharashtra,Rabi,2021,1.57,236.7,3.62
+Wheat,Uttar Pradesh,Kharif,2021,5.43,746.0,3.22
+Wheat,Uttar Pradesh,Rabi,2021,4.71,697.3,4.15
+Wheat,Tamil Nadu,Kharif,2021,5.91,1123.8,3.63
+Wheat,Tamil Nadu,Rabi,2021,6.05,584.5,4.04
+Maize,Karnataka,Kharif,2021,3.37,1016.1,3.46
+Maize,Karnataka,Rabi,2021,3.99,247.5,2.87
+Maize,Punjab,Kharif,2021,7.46,962.0,3.7
+Maize,Punjab,Rabi,2021,1.68,246.6,3.34
+Maize,Maharashtra,Kharif,2021,5.11,1268.2,3.44
+Maize,Maharashtra,Rabi,2021,3.48,261.1,2.74
+Maize,Uttar Pradesh,Kharif,2021,6.05,1225.2,4.03
+Maize,Uttar Pradesh,Rabi,2021,5.05,375.8,2.85
+Maize,Tamil Nadu,Kharif,2021,1.76,1159.7,4.04
+Maize,Tamil Nadu,Rabi,2021,5.02,581.3,3.32
+Cotton,Karnataka,Kharif,2021,6.73,1291.6,0.65
+Cotton,Karnataka,Rabi,2021,7.5,213.1,0.47
+Cotton,Punjab,Kharif,2021,5.92,887.2,0.68
+Cotton,Punjab,Rabi,2021,7.09,203.1,0.52
+Cotton,Maharashtra,Kharif,2021,5.43,980.5,0.54
+Cotton,Maharashtra,Rabi,2021,3.94,307.6,0.42
+Cotton,Uttar Pradesh,Kharif,2021,6.44,959.0,0.65
+Cotton,Uttar Pradesh,Rabi,2021,2.1,226.3,0.48
+Cotton,Tamil Nadu,Kharif,2021,5.63,1171.8,0.68
+Cotton,Tamil Nadu,Rabi,2021,6.28,336.6,0.46
+Sugarcane,Karnataka,Kharif,2021,5.75,1000.9,75.12
+Sugarcane,Karnataka,Rabi,2021,3.77,222.7,66.51
+Sugarcane,Punjab,Kharif,2021,2.48,705.4,78.61
+Sugarcane,Punjab,Rabi,2021,1.05,364.1,79.75
+Sugarcane,Maharashtra,Kharif,2021,5.93,823.0,69.97
+Sugarcane,Maharashtra,Rabi,2021,1.5,603.1,69.17
+Sugarcane,Uttar Pradesh,Kharif,2021,7.45,729.6,80.86
+Sugarcane,Uttar Pradesh,Rabi,2021,5.97,486.7,70.25
+Sugarcane,Tamil Nadu,Kharif,2021,3.27,780.6,82.94
+Sugarcane,Tamil Nadu,Rabi,2021,7.44,616.0,69.55
+Rice,Karnataka,Kharif,2022,5.12,1291.1,3.22
+Rice,Karnataka,Rabi,2022,3.38,355.1,2.37
+Rice,Punjab,Kharif,2022,1.8,817.7,3.49
+Rice,Punjab,Rabi,2022,6.09,374.7,2.95
+Rice,Maharashtra,Kharif,2022,2.03,1270.5,2.89
+Rice,Maharashtra,Rabi,2022,5.59,580.1,2.26
+Rice,Uttar Pradesh,Kharif,2022,6.28,1241.0,3.49
+Rice,Uttar Pradesh,Rabi,2022,4.95,662.1,2.72
+Rice,Tamil Nadu,Kharif,2022,5.39,1137.2,3.21
+Rice,Tamil Nadu,Rabi,2022,3.12,421.1,2.55
+Wheat,Karnataka,Kharif,2022,3.17,739.3,3.01
+Wheat,Karnataka,Rabi,2022,1.54,615.8,4.17
+Wheat,Punjab,Kharif,2022,4.55,1298.7,3.72
+Wheat,Punjab,Rabi,2022,7.27,595.9,4.48
+Wheat,Maharashtra,Kharif,2022,3.25,1266.9,3.06
+Wheat,Maharashtra,Rabi,2022,1.72,230.9,3.79
+Wheat,Uttar Pradesh,Kharif,2022,4.53,940.4,3.1
+Wheat,Uttar Pradesh,Rabi,2022,4.08,418.9,4.05
+Wheat,Tamil Nadu,Kharif,2022,2.98,811.1,3.26
+Wheat,Tamil Nadu,Rabi,2022,6.52,498.9,4.29
+Maize,Karnataka,Kharif,2022,5.75,746.1,3.25
+Maize,Karnataka,Rabi,2022,7.34,528.3,3.08
+Maize,Punjab,Kharif,2022,1.99,933.4,3.87
+Maize,Punjab,Rabi,2022,3.74,549.2,3.4
+Maize,Maharashtra,Kharif,2022,3.64,1356.6,3.61
+Maize,Maharashtra,Rabi,2022,6.8,535.1,2.87
+Maize,Uttar Pradesh,Kharif,2022,5.52,1179.8,3.68
+Maize,Uttar Pradesh,Rabi,2022,2.26,381.3,2.86
+Maize,Tamil Nadu,Kharif,2022,2.59,1363.4,3.69
+Maize,Tamil Nadu,Rabi,2022,1.71,622.2,3.31
+Cotton,Karnataka,Kharif,2022,1.26,1284.6,0.62
+Cotton,Karnataka,Rabi,2022,3.64,265.5,0.43
+Cotton,Punjab,Kharif,2022,6.66,1281.9,0.7
+Cotton,Punjab,Rabi,2022,5.73,405.4,0.51
+Cotton,Maharashtra,Kharif,2022,6.24,1010.9,0.59
+Cotton,Maharashtra,Rabi,2022,6.66,354.7,0.43
+Cotton,Uttar Pradesh,Kharif,2022,7.63,1284.6,0.73
+Cotton,Uttar Pradesh,Rabi,2022,3.67,340.9,0.48
+Cotton,Tamil Nadu,Kharif,2022,6.61,1376.4,0.66
+Cotton,Tamil Nadu,Rabi,2022,7.12,520.6,0.51
+Sugarcane,Karnataka,Kharif,2022,6.96,771.8,70.66
+Sugarcane,Karnataka,Rabi,2022,7.34,336.4,62.72
+Sugarcane,Punjab,Kharif,2022,2.55,1006.2,85.96
+Sugarcane,Punjab,Rabi,2022,1.37,213.3,75.22
+Sugarcane,Maharashtra,Kharif,2022,3.62,865.0,65.03
+Sugarcane,Maharashtra,Rabi,2022,5.55,619.6,68.57
+Sugarcane,Uttar Pradesh,Kharif,2022,6.81,796.3,79.49
+Sugarcane,Uttar Pradesh,Rabi,2022,4.14,552.8,66.11
+Sugarcane,Tamil Nadu,Kharif,2022,6.84,755.5,79.49
+Sugarcane,Tamil Nadu,Rabi,2022,1.78,463.9,70.53
+Rice,Karnataka,Kharif,2023,3.94,910.8,3.21
+Rice,Karnataka,Rabi,2023,7.34,255.4,2.44
+Rice,Punjab,Kharif,2023,2.69,711.5,3.24
+Rice,Punjab,Rabi,2023,2.68,507.4,2.82
+Rice,Maharashtra,Kharif,2023,7.82,1165.1,2.8
+Rice,Maharashtra,Rabi,2023,7.92,453.7,2.36
+Rice,Uttar Pradesh,Kharif,2023,5.45,973.3,3.49
+Rice,Uttar Pradesh,Rabi,2023,6.52,208.1,2.44
+Rice,Tamil Nadu,Kharif,2023,6.4,1213.1,3.56
+Rice,Tamil Nadu,Rabi,2023,4.82,222.2,2.71
+Wheat,Karnataka,Kharif,2023,4.25,822.6,3.16
+Wheat,Karnataka,Rabi,2023,1.44,605.7,4.11
+Wheat,Punjab,Kharif,2023,1.31,1020.4,3.44
+Wheat,Punjab,Rabi,2023,4.61,666.7,4.92
+Wheat,Maharashtra,Kharif,2023,6.27,1080.1,2.86
+Wheat,Maharashtra,Rabi,2023,7.06,590.4,3.63
+Wheat,Uttar Pradesh,Kharif,2023,7.23,787.1,3.33
+Wheat,Uttar Pradesh,Rabi,2023,7.82,393.3,4.02
+Wheat,Tamil Nadu,Kharif,2023,4.63,1048.3,3.57
+Wheat,Tamil Nadu,Rabi,2023,5.22,239.5,4.26
+Maize,Karnataka,Kharif,2023,1.56,1081.8,3.6
+Maize,Karnataka,Rabi,2023,3.98,501.3,2.98
+Maize,Punjab,Kharif,2023,7.09,946.1,3.88
+Maize,Punjab,Rabi,2023,7.86,337.3,3.49
+Maize,Maharashtra,Kharif,2023,3.54,752.5,3.36
+Maize,Maharashtra,Rabi,2023,2.0,676.4,2.86
+Maize,Uttar Pradesh,Kharif,2023,1.47,1246.9,3.93
+Maize,Uttar Pradesh,Rabi,2023,4.97,391.4,3.05
+Maize,Tamil Nadu,Kharif,2023,3.6,1175.3,4.0
+Maize,Tamil Nadu,Rabi,2023,3.79,464.7,3.19
+Cotton,Karnataka,Kharif,2023,6.15,874.7,0.61
+Cotton,Karnataka,Rabi,2023,2.83,480.8,0.45
+Cotton,Punjab,Kharif,2023,3.0,1012.4,0.76
+Cotton,Punjab,Rabi,2023,6.97,261.3,0.52
+Cotton,Maharashtra,Kharif,2023,1.61,1329.1,0.63
+Cotton,Maharashtra,Rabi,2023,3.43,359.8,0.4
+Cotton,Uttar Pradesh,Kharif,2023,6.96,1079.5,0.68
+Cotton,Uttar Pradesh,Rabi,2023,6.56,518.9,0.49
+Cotton,Tamil Nadu,Kharif,2023,1.97,785.0,0.68
+Cotton,Tamil Nadu,Rabi,2023,3.58,477.0,0.53
+Sugarcane,Karnataka,Kharif,2023,1.6,1086.2,73.75
+Sugarcane,Karnataka,Rabi,2023,4.68,559.4,71.39
+Sugarcane,Punjab,Kharif,2023,7.81,1276.3,91.52
+Sugarcane,Punjab,Rabi,2023,3.41,540.1,83.25
+Sugarcane,Maharashtra,Kharif,2023,2.27,1246.2,79.15
+Sugarcane,Maharashtra,Rabi,2023,1.39,655.4,61.86
+Sugarcane,Uttar Pradesh,Kharif,2023,3.26,807.1,79.77
+Sugarcane,Uttar Pradesh,Rabi,2023,7.26,670.5,76.92
+Sugarcane,Tamil Nadu,Kharif,2023,4.86,875.4,75.26
+Sugarcane,Tamil Nadu,Rabi,2023,4.52,466.7,69.16

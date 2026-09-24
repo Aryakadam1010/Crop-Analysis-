@@ -1,0 +1,1 @@
+"""Simple crop yield prediction package."""

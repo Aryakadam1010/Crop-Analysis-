@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "crop-yield-prediction"
+version = "0.2.0"
+description = "Simple crop yield prediction with 5 easy results."
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "fastapi>=0.115.0,<1.0.0",
+  "joblib>=1.4.2,<2.0.0",
+  "numpy>=1.26.4,<3.0.0",
+  "pandas>=2.2.2,<3.0.0",
+  "pydantic>=2.8.2,<3.0.0",
+  "pydantic-settings>=2.4.0,<3.0.0",
+  "python-dotenv>=1.0.1,<2.0.0",
+  "requests>=2.32.3,<3.0.0",
+  "scikit-learn>=1.5.1,<2.0.0",
+  "uvicorn>=0.30.5,<1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3.2,<9.0.0",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

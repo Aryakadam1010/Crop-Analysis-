@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Crop Yield Prediction</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main class="page">
+    <header>
+      <p class="eyebrow">Simple crop advisor</p>
+      <h1>Crop Yield Prediction</h1>
+      <p>Enter field details and get 5 easy results: yield, production, history, weather, and outlook.</p>
+    </header>
+
+    <section class="card">
+      <form id="predict-form">
+        <label>Crop
+          <select name="crop" required>
+            <option>Rice</option>
+            <option>Wheat</option>
+            <option>Maize</option>
+            <option>Cotton</option>
+            <option>Sugarcane</option>
+          </select>
+        </label>
+        <label>State
+          <select name="state">
+            <option>Karnataka</option>
+            <option>Punjab</option>
+            <option>Maharashtra</option>
+            <option>Uttar Pradesh</option>
+            <option>Tamil Nadu</option>
+          </select>
+        </label>
+        <label>Season
+          <select name="season">
+            <option>Kharif</option>
+            <option>Rabi</option>
+          </select>
+        </label>
+        <label>Area (hectares)
+          <input name="area_ha" type="number" min="0.1" step="0.1" value="2">
+        </label>
+        <label>Year
+          <input name="crop_year" type="number" value="2024">
+        </label>
+        <label>Rainfall mm (optional)
+          <input name="rainfall_mm" type="number" min="0" step="1" placeholder="Leave blank to use average">
+        </label>
+        <label>Latitude
+          <input name="latitude" type="number" step="0.0001" value="12.2958">
+        </label>
+        <label>Longitude
+          <input name="longitude" type="number" step="0.0001" value="76.6394">
+        </label>
+        <button type="submit">Get 5 results</button>
+      </form>
+    </section>
+
+    <section id="results" class="results hidden">
+      <article class="result">
+        <h2>1. Predicted yield</h2>
+        <p id="yield-value">-</p>
+        <span>tonnes per hectare</span>
+      </article>
+      <article class="result">
+        <h2>2. Estimated production</h2>
+        <p id="production-value">-</p>
+        <span>total tonnes for the entered area</span>
+      </article>
+      <article class="result">
+        <h2>3. Historical average</h2>
+        <p id="history-value">-</p>
+        <span>usual yield for this crop and region</span>
+      </article>
+      <article class="result">
+        <h2>4. Weather snapshot</h2>
+        <p id="weather-value">-</p>
+        <span id="weather-note">temperature, rain, and humidity</span>
+      </article>
+      <article class="result result-wide">
+        <h2>5. Yield outlook</h2>
+        <p id="outlook-label">-</p>
+        <span id="outlook-detail"></span>
+      </article>
+    </section>
+
+    <p id="status" class="status">Fill the form and click Get 5 results.</p>
+
+    <section class="analysis">
+      <header>
+        <p class="eyebrow">Analysis</p>
+        <h2>Charts from the crop dataset</h2>
+        <p>These graphs use the same CSV the model is trained on. Sugarcane is left out of the state and year charts so the scale stays easy to read.</p>
+      </header>
+      <div class="chart-grid">
+        <article class="chart-card">
+          <h3>Average yield by crop</h3>
+          <div class="chart-wrap"><canvas id="chart-crop"></canvas></div>
+        </article>
+        <article class="chart-card">
+          <h3>Average yield by state</h3>
+          <div class="chart-wrap"><canvas id="chart-state"></canvas></div>
+        </article>
+        <article class="chart-card chart-wide">
+          <h3>Yield trend by year</h3>
+          <div class="chart-wrap"><canvas id="chart-year"></canvas></div>
+        </article>
+        <article class="chart-card">
+          <h3>Average rainfall by season</h3>
+          <div class="chart-wrap"><canvas id="chart-season"></canvas></div>
+        </article>
+      </div>
+    </section>
+  </main>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>
